@@ -1,4 +1,4 @@
-# Autonomous Navigation of Differential Drive Robots using Reactive Control in ROS
+# Autonomous Navigation of Differential Drive Robots using Reactive Control in ROS2
 
 ## Project Overview
 This project develops an autonomous navigation system for differential drive robots, utilizing ROS for simulation. By integrating an occupancy grid map and a LiDAR sensor, the simulation's fidelity and utility are significantly enhanced. The system comprises two ROS nodes: the Differential Drive Simulator Node for simulating robot movement and the Navigation Controller Node for dynamic obstacle avoidance and path planning.
