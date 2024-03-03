@@ -17,18 +17,9 @@ The Differential Drive Simulator Node simulates the robot's physical characteris
 3. **Motion Control:** Executes movement commands based on the navigation strategy.
 4. **Feedback Loop:** Updates robot pose and validates collision avoidance, enhancing the navigation process.
 
-## Installation
-[Instructions for setting up the project, including environment setup and dependencies.]
+![image](https://github.com/khullarsanket/Autonomous-Navigation-of-Differential-Drive-Robots-Using-Reactive-Control-in-ROS/assets/119709438/c2951a03-d458-4981-8bc1-add728c43e8d)
 
-## Usage
-[Step-by-step guide on how to run the simulation, including any necessary configurations.]
+![image](https://github.com/khullarsanket/Autonomous-Navigation-of-Differential-Drive-Robots-Using-Reactive-Control-in-ROS/assets/119709438/1b0f7bdc-0495-422a-96d0-7ac2e4166c44)
 
-## Contributing
-We welcome contributions! Please read our [contribution guidelines](LINK_TO_GUIDELINES) for more information.
 
-## License
-[Specify the license under which this project is released.]
-
-## Acknowledgements
-[Optional section to acknowledge any contributions or inspirations for the project.]
 
