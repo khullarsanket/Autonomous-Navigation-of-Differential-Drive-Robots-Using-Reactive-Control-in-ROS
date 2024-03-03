@@ -19,7 +19,8 @@ The Differential Drive Simulator Node simulates the robot's physical characteris
 
 ![image](https://github.com/khullarsanket/Autonomous-Navigation-of-Differential-Drive-Robots-Using-Reactive-Control-in-ROS/assets/119709438/c2951a03-d458-4981-8bc1-add728c43e8d)
 
-![image](https://github.com/khullarsanket/Autonomous-Navigation-of-Differential-Drive-Robots-Using-Reactive-Control-in-ROS/assets/119709438/1b0f7bdc-0495-422a-96d0-7ac2e4166c44)
+![image](https://github.com/khullarsanket/Autonomous-Navigation-of-Differential-Drive-Robots-Using-Reactive-Control-in-ROS2/assets/119709438/366d35e0-4f88-4aa3-872a-e5eb1d6c64ff)
+
 
 
 
